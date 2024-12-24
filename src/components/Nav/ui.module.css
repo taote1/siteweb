@@ -1,0 +1,11 @@
+.ulNav {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 22px;
+}
+
+.nav {
+    padding: 10px 0px;
+    background-color: rgb(225, 207, 8);
+}

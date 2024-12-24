@@ -1,0 +1,19 @@
+.button {
+    background-color: yellowgreen;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    height: 30px;
+    color: white;
+}
+
+.button:hover {
+    background-color: white;
+    color: yellowgreen;
+    border: 1px solid yellowgreen;
+}
+
+.button:active {
+    background-color: yellowgreen;
+    color: white;
+}

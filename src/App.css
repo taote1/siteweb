@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.link {
+    list-style-type: none;
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.mainPage {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;   
+    justify-content: center;
+}
+
+.wrapBooking {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
