@@ -25,7 +25,7 @@ export const Booking = () => {
             <p>Ремонт: {booking.repair}</p>
             <p className={style.price}>Цена: {booking.price}</p>
             <p>Район: {booking.district}</p>
-            <RemoveButton id = {booking.id}/>
+            <RemoveButton />
         </div>
           ))}
         </div>
